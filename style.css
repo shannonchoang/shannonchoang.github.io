@@ -1,0 +1,21 @@
+body {
+  
+
+  /*gradient background and stretching*/
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: black;
+  padding-top:10em;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+a{
+	padding-right:1em;
+}
+a:visited, hover, active{
+	color:gray;
+}
+* { color:#black; text-decoration: none;}
